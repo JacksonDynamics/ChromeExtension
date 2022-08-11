@@ -1,3 +1,21 @@
 body {
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0;
+    padding: 10px;
+}
+
+input {
+    border: 1px solid #5f8341;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+}
+
+button {
+    background-color: #5f9341;
+    border: none;
+    color: white;
+    display: flex;
+    margin: 5px 0;
+    padding: 10px 20px;
 }
