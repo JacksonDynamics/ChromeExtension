@@ -6,7 +6,7 @@ body {
 }
 
 input {
-    border: 1px solid #5f8341;
+    border: 1px solid #5f9341;
     box-sizing: border-box;
     padding: 10px;
     width: 100%;
@@ -15,10 +15,15 @@ input {
 
 button {
     background-color: #5f9341;
-    border: none;
     color: white;
     font-weight: bold;
     padding: 10px 20px;
+    border: 1px solid #5f9341;
+}
+
+#delete {
+    background: white;
+    color: #5f9341
 }
 
 ul {
