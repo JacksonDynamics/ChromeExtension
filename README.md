@@ -14,8 +14,9 @@ real world uses
 
 
 
-#### A full page view of this extension is provided below.  But in real world applications, it will be accessible
-via the extensions icon in Crome, as illustrated above.
+#### A full page view of the layout of this extension is provided below.  However, this will only have functionality 
+of the SAVE INPUT and DELETE ALL buttons.  But in real world applications, it will be accessible via the extensions 
+icon in Crome, and there be useable for all 3 buttons, including the SAVE TAB button, as illustrated above.
 
 
 https://jacksondynamics.github.io/ChromeExtension/
